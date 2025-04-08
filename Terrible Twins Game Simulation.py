@@ -34,7 +34,17 @@ for num_drawn in range(NUM_CARDS + 1):
     trials = (num_pairs(draw(num_drawn)) for i in range(NUM_TRIALS))
     expected_pairs[num_drawn] = sum(trials) / NUM_TRIALS
 
+pairs_output = ""
+points_output = ""
 with open(FILENAME, 'w') as f:
     f.write(f"{NUM_TRIALS} trials run!\n<# cards drawn>: <expected # pairs>, <expected # points>\n")
     for num_drawn, expected_pairs_val in enumerate(expected_pairs):
         f.write(f"{num_drawn}: {expected_pairs_val:.6f}, {num_drawn - 2 * expected_pairs_val:.6f}\n")
+        pairs_output += f"{expected_pairs_val:.6f}\n"
+        points_output += f"{num_drawn - 2 * expected_pairs_val:.6f}\n"
+
+    f.write("\nPairs Data\n")
+    f.write(pairs_output)
+    f.write("\nPoints Data\n")
+    f.write(points_output)
+    
