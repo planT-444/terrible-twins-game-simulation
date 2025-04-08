@@ -6,11 +6,12 @@ NUM_RANKS = 6
 NUM_CARDS = NUM_SUITS * NUM_RANKS
 
 try:
-    FILENAME = argv[1]
+    FILENAME = f"../expected-resultant-files/{argv[1]}.txt"
     NUM_TRIALS = int(argv[2])
+    
 except:
     print("\tRun this script with a filename and number of trials, e.g.\n" \
-        "\t> py \"Terrible Twins Game Simulation.py\" results.txt 1000")
+        "\t> py \"Terrible Twins Game Simulation.py\" results 1000")
     exit()
 
 unshuffled_deck = [i // 4 for i in range(NUM_CARDS)]
