@@ -9,8 +9,8 @@ try:
     FILENAME = argv[1]
     NUM_TRIALS = int(argv[2])
 except:
-    print("\tRun the script with a number of trials, e.g.\n" \
-        "\tpy \"Terrible Twins Game Simulation.py\" 1000")
+    print("\tRun this script with a filename and number of trials, e.g.\n" \
+        "\t> py \"Terrible Twins Game Simulation.py\" results.txt 1000")
     exit()
 
 unshuffled_deck = [i // 4 for i in range(NUM_CARDS)]
