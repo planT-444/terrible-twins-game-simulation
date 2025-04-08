@@ -44,6 +44,16 @@ for num_drawn in range(NUM_CARDS + 1):
 with open(FILENAME, 'w') as f:
     f.write("Probability distributions for each number of cards drawn:\n<# pairs>: <P(# pairs)>\n")
     for num_drawn, num_drawn_distribution in enumerate(distribution):
+        pairs_output = ""
+        p_output = ""
         f.write(f"\nDistribution for {num_drawn} cards drawn:\n")
         for pairs in sorted(num_drawn_distribution):
-            f.write(f"{pairs}: {num_drawn_distribution[pairs]}\n")
+            f.write(f"\t{pairs}: {num_drawn_distribution[pairs]}\n")
+            pairs_output += f"\t{pairs}\n"
+            p_output += f"\t{num_drawn_distribution[pairs]}\n"
+        f.write(f"\n\tPairs Data for {num_drawn} cards drawn:\n")
+        f.write(pairs_output)
+        f.write(f"\n\tP Data for {num_drawn} cards drawn:\n")
+        f.write(p_output)
+
+    
