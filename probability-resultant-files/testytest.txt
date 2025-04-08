@@ -1,0 +1,116 @@
+Probability distributions for each number of cards drawn:
+<# pairs>: <P(# pairs)>
+
+Distribution for 0 cards drwan:
+0: 1.0
+
+Distribution for 1 cards drwan:
+0: 1.0
+
+Distribution for 2 cards drwan:
+0: 0.76
+1: 0.24
+
+Distribution for 3 cards drwan:
+0: 0.6
+1: 0.4
+
+Distribution for 4 cards drwan:
+0: 0.24
+1: 0.72
+2: 0.04
+
+Distribution for 5 cards drwan:
+0: 0.16
+1: 0.68
+2: 0.16
+
+Distribution for 6 cards drwan:
+0: 0.04
+1: 0.46
+2: 0.5
+
+Distribution for 7 cards drwan:
+1: 0.24
+2: 0.56
+3: 0.2
+
+Distribution for 8 cards drwan:
+1: 0.02
+2: 0.54
+3: 0.44
+
+Distribution for 9 cards drwan:
+2: 0.12
+3: 0.6
+4: 0.28
+
+Distribution for 10 cards drwan:
+2: 0.02
+3: 0.48
+4: 0.46
+5: 0.04
+
+Distribution for 11 cards drwan:
+3: 0.16
+4: 0.66
+5: 0.18
+
+Distribution for 12 cards drwan:
+4: 0.5
+5: 0.5
+
+Distribution for 13 cards drwan:
+4: 0.2
+5: 0.64
+6: 0.16
+
+Distribution for 14 cards drwan:
+4: 0.08
+5: 0.48
+6: 0.42
+7: 0.02
+
+Distribution for 15 cards drwan:
+5: 0.22
+6: 0.64
+7: 0.14
+
+Distribution for 16 cards drwan:
+6: 0.52
+7: 0.4
+8: 0.08
+
+Distribution for 17 cards drwan:
+6: 0.24
+7: 0.6
+8: 0.16
+
+Distribution for 18 cards drwan:
+7: 0.36
+8: 0.6
+9: 0.04
+
+Distribution for 19 cards drwan:
+7: 0.16
+8: 0.6
+9: 0.24
+
+Distribution for 20 cards drwan:
+8: 0.28
+9: 0.66
+10: 0.06
+
+Distribution for 21 cards drwan:
+9: 0.62
+10: 0.38
+
+Distribution for 22 cards drwan:
+10: 0.78
+11: 0.22
+
+Distribution for 23 cards drwan:
+11: 1.0
+
+Distribution for 24 cards drwan:
+12: 1.0
