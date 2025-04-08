@@ -37,4 +37,4 @@ for num_drawn in range(NUM_CARDS + 1):
 with open(FILENAME, 'w') as f:
     f.write(f"{NUM_TRIALS} trials run!\n<# cards drawn>: <expected # pairs>, <expected # points>\n")
     for num_drawn, expected_pairs_val in enumerate(expected_pairs):
-        f.write(f"{num_drawn}: {expected_pairs_val}, {num_drawn - 2 * expected_pairs_val}\n")
+        f.write(f"{num_drawn}: {expected_pairs_val:.6f}, {num_drawn - 2 * expected_pairs_val:.6f}\n")
