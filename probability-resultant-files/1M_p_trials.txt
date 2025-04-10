@@ -1,4 +1,4 @@
-100000 trials run!
+1000000 trials run!
 Probability distributions for each number of cards drawn:
 <# pairs>: <P(# pairs)>
 
@@ -21,33 +21,33 @@ Distribution for 1 cards drawn:
 	1.0
 
 Distribution for 2 cards drawn:
-	0: 0.86943
-	1: 0.13057
+	0: 0.869351
+	1: 0.130649
 
 	Pairs Data for 2 cards drawn:
 	0
 	1
 
 	P Data for 2 cards drawn:
-	0.86943
-	0.13057
+	0.869351
+	0.130649
 
 Distribution for 3 cards drawn:
-	0: 0.63347
-	1: 0.36653
+	0: 0.632195
+	1: 0.367805
 
 	Pairs Data for 3 cards drawn:
 	0
 	1
 
 	P Data for 3 cards drawn:
-	0.63347
-	0.36653
+	0.632195
+	0.367805
 
 Distribution for 4 cards drawn:
-	0: 0.36326
-	1: 0.58549
-	2: 0.05125
+	0: 0.361089
+	1: 0.58793
+	2: 0.050981
 
 	Pairs Data for 4 cards drawn:
 	0
@@ -55,14 +55,14 @@ Distribution for 4 cards drawn:
 	2
 
 	P Data for 4 cards drawn:
-	0.36326
-	0.58549
-	0.05125
+	0.361089
+	0.58793
+	0.050981
 
 Distribution for 5 cards drawn:
-	0: 0.14674
-	1: 0.63126
-	2: 0.222
+	0: 0.14448
+	1: 0.632266
+	2: 0.223254
 
 	Pairs Data for 5 cards drawn:
 	0
@@ -70,15 +70,15 @@ Distribution for 5 cards drawn:
 	2
 
 	P Data for 5 cards drawn:
-	0.14674
-	0.63126
-	0.222
+	0.14448
+	0.632266
+	0.223254
 
 Distribution for 6 cards drawn:
-	0: 0.03069
-	1: 0.45893
-	2: 0.47708
-	3: 0.0333
+	0: 0.030522
+	1: 0.456247
+	2: 0.479641
+	3: 0.03359
 
 	Pairs Data for 6 cards drawn:
 	0
@@ -87,15 +87,15 @@ Distribution for 6 cards drawn:
 	3
 
 	P Data for 6 cards drawn:
-	0.03069
-	0.45893
-	0.47708
-	0.0333
+	0.030522
+	0.456247
+	0.479641
+	0.03359
 
 Distribution for 7 cards drawn:
-	1: 0.19585
-	2: 0.62065
-	3: 0.1835
+	1: 0.195287
+	2: 0.621908
+	3: 0.182805
 
 	Pairs Data for 7 cards drawn:
 	1
@@ -103,15 +103,15 @@ Distribution for 7 cards drawn:
 	3
 
 	P Data for 7 cards drawn:
-	0.19585
-	0.62065
-	0.1835
+	0.195287
+	0.621908
+	0.182805
 
 Distribution for 8 cards drawn:
-	1: 0.03371
-	2: 0.48295
-	3: 0.45373
-	4: 0.02961
+	1: 0.033211
+	2: 0.48097
+	3: 0.456142
+	4: 0.029677
 
 	Pairs Data for 8 cards drawn:
 	1
@@ -120,15 +120,15 @@ Distribution for 8 cards drawn:
 	4
 
 	P Data for 8 cards drawn:
-	0.03371
-	0.48295
-	0.45373
-	0.02961
+	0.033211
+	0.48097
+	0.456142
+	0.029677
 
 Distribution for 9 cards drawn:
-	2: 0.19242
-	3: 0.62763
-	4: 0.17995
+	2: 0.192345
+	3: 0.626834
+	4: 0.180821
 
 	Pairs Data for 9 cards drawn:
 	2
@@ -136,15 +136,15 @@ Distribution for 9 cards drawn:
 	4
 
 	P Data for 9 cards drawn:
-	0.19242
-	0.62763
-	0.17995
+	0.192345
+	0.626834
+	0.180821
 
 Distribution for 10 cards drawn:
-	2: 0.03208
-	3: 0.46992
-	4: 0.46757
-	5: 0.03043
+	2: 0.031206
+	3: 0.470298
+	4: 0.467893
+	5: 0.030603
 
 	Pairs Data for 10 cards drawn:
 	2
@@ -153,15 +153,15 @@ Distribution for 10 cards drawn:
 	5
 
 	P Data for 10 cards drawn:
-	0.03208
-	0.46992
-	0.46757
-	0.03043
+	0.031206
+	0.470298
+	0.467893
+	0.030603
 
 Distribution for 11 cards drawn:
-	3: 0.18536
-	4: 0.62203
-	5: 0.19261
+	3: 0.184821
+	4: 0.62471
+	5: 0.190469
 
 	Pairs Data for 11 cards drawn:
 	3
@@ -169,15 +169,15 @@ Distribution for 11 cards drawn:
 	5
 
 	P Data for 11 cards drawn:
-	0.18536
-	0.62203
-	0.19261
+	0.184821
+	0.62471
+	0.190469
 
 Distribution for 12 cards drawn:
-	3: 0.03118
-	4: 0.46309
-	5: 0.47279
-	6: 0.03294
+	3: 0.030115
+	4: 0.463449
+	5: 0.47358
+	6: 0.032856
 
 	Pairs Data for 12 cards drawn:
 	3
@@ -186,15 +186,15 @@ Distribution for 12 cards drawn:
 	6
 
 	P Data for 12 cards drawn:
-	0.03118
-	0.46309
-	0.47279
-	0.03294
+	0.030115
+	0.463449
+	0.47358
+	0.032856
 
 Distribution for 13 cards drawn:
-	4: 0.18444
-	5: 0.62413
-	6: 0.19143
+	4: 0.185094
+	5: 0.624479
+	6: 0.190427
 
 	Pairs Data for 13 cards drawn:
 	4
@@ -202,15 +202,15 @@ Distribution for 13 cards drawn:
 	6
 
 	P Data for 13 cards drawn:
-	0.18444
-	0.62413
-	0.19143
+	0.185094
+	0.624479
+	0.190427
 
 Distribution for 14 cards drawn:
-	4: 0.03062
-	5: 0.46759
-	6: 0.47106
-	7: 0.03073
+	4: 0.031637
+	5: 0.469866
+	6: 0.468111
+	7: 0.030386
 
 	Pairs Data for 14 cards drawn:
 	4
@@ -219,15 +219,15 @@ Distribution for 14 cards drawn:
 	7
 
 	P Data for 14 cards drawn:
-	0.03062
-	0.46759
-	0.47106
-	0.03073
+	0.031637
+	0.469866
+	0.468111
+	0.030386
 
 Distribution for 15 cards drawn:
-	5: 0.19121
-	6: 0.6275
-	7: 0.18129
+	5: 0.19207
+	6: 0.626919
+	7: 0.181011
 
 	Pairs Data for 15 cards drawn:
 	5
@@ -235,15 +235,15 @@ Distribution for 15 cards drawn:
 	7
 
 	P Data for 15 cards drawn:
-	0.19121
-	0.6275
-	0.18129
+	0.19207
+	0.626919
+	0.181011
 
 Distribution for 16 cards drawn:
-	5: 0.03384
-	6: 0.47938
-	7: 0.458
-	8: 0.02878
+	5: 0.033185
+	6: 0.479865
+	7: 0.457046
+	8: 0.029904
 
 	Pairs Data for 16 cards drawn:
 	5
@@ -252,15 +252,15 @@ Distribution for 16 cards drawn:
 	8
 
 	P Data for 16 cards drawn:
-	0.03384
-	0.47938
-	0.458
-	0.02878
+	0.033185
+	0.479865
+	0.457046
+	0.029904
 
 Distribution for 17 cards drawn:
-	6: 0.19568
-	7: 0.62058
-	8: 0.18374
+	6: 0.195264
+	7: 0.62127
+	8: 0.183466
 
 	Pairs Data for 17 cards drawn:
 	6
@@ -268,15 +268,15 @@ Distribution for 17 cards drawn:
 	8
 
 	P Data for 17 cards drawn:
-	0.19568
-	0.62058
-	0.18374
+	0.195264
+	0.62127
+	0.183466
 
 Distribution for 18 cards drawn:
-	6: 0.03042
-	7: 0.45682
-	8: 0.47901
-	9: 0.03375
+	6: 0.030697
+	7: 0.45675
+	8: 0.478735
+	9: 0.033818
 
 	Pairs Data for 18 cards drawn:
 	6
@@ -285,15 +285,15 @@ Distribution for 18 cards drawn:
 	9
 
 	P Data for 18 cards drawn:
-	0.03042
-	0.45682
-	0.47901
-	0.03375
+	0.030697
+	0.45675
+	0.478735
+	0.033818
 
 Distribution for 19 cards drawn:
-	7: 0.14377
-	8: 0.63134
-	9: 0.22489
+	7: 0.145013
+	8: 0.632212
+	9: 0.222775
 
 	Pairs Data for 19 cards drawn:
 	7
@@ -301,14 +301,14 @@ Distribution for 19 cards drawn:
 	9
 
 	P Data for 19 cards drawn:
-	0.14377
-	0.63134
-	0.22489
+	0.145013
+	0.632212
+	0.222775
 
 Distribution for 20 cards drawn:
-	8: 0.36042
-	9: 0.58876
-	10: 0.05082
+	8: 0.361043
+	9: 0.58757
+	10: 0.051387
 
 	Pairs Data for 20 cards drawn:
 	8
@@ -316,33 +316,33 @@ Distribution for 20 cards drawn:
 	10
 
 	P Data for 20 cards drawn:
-	0.36042
-	0.58876
-	0.05082
+	0.361043
+	0.58757
+	0.051387
 
 Distribution for 21 cards drawn:
-	9: 0.63364
-	10: 0.36636
+	9: 0.633613
+	10: 0.366387
 
 	Pairs Data for 21 cards drawn:
 	9
 	10
 
 	P Data for 21 cards drawn:
-	0.63364
-	0.36636
+	0.633613
+	0.366387
 
 Distribution for 22 cards drawn:
-	10: 0.87018
-	11: 0.12982
+	10: 0.869662
+	11: 0.130338
 
 	Pairs Data for 22 cards drawn:
 	10
 	11
 
 	P Data for 22 cards drawn:
-	0.87018
-	0.12982
+	0.869662
+	0.130338
 
 Distribution for 23 cards drawn:
 	11: 1.0

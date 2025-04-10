@@ -38,10 +38,10 @@ for num_drawn in range(NUM_CARDS + 1):
             distribution[num_drawn][pairs] = 0
         distribution[num_drawn][pairs] += 1
     for pairs in distribution[num_drawn]:
-        distribution[num_drawn][pairs] /= NUM_TRIALS
-        
+        distribution[num_drawn][pairs] /= NUM_TRIALS 
 
 with open(FILENAME, 'w') as f:
+    f.write(f"{NUM_TRIALS} trials run!\n")
     f.write("Probability distributions for each number of cards drawn:\n<# pairs>: <P(# pairs)>\n")
     for num_drawn, num_drawn_distribution in enumerate(distribution):
         pairs_output = ""

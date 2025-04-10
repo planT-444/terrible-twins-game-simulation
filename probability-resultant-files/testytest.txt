@@ -1,116 +1,327 @@
+10 trials run!
 Probability distributions for each number of cards drawn:
 <# pairs>: <P(# pairs)>
 
-Distribution for 0 cards drwan:
-0: 1.0
+Distribution for 0 cards drawn:
+	0: 1.0
 
-Distribution for 1 cards drwan:
-0: 1.0
+	Pairs Data for 0 cards drawn:
+	0
 
-Distribution for 2 cards drwan:
-0: 0.76
-1: 0.24
+	P Data for 0 cards drawn:
+	1.0
 
-Distribution for 3 cards drwan:
-0: 0.6
-1: 0.4
+Distribution for 1 cards drawn:
+	0: 1.0
 
-Distribution for 4 cards drwan:
-0: 0.24
-1: 0.72
-2: 0.04
+	Pairs Data for 1 cards drawn:
+	0
 
-Distribution for 5 cards drwan:
-0: 0.16
-1: 0.68
-2: 0.16
+	P Data for 1 cards drawn:
+	1.0
 
-Distribution for 6 cards drwan:
-0: 0.04
-1: 0.46
-2: 0.5
+Distribution for 2 cards drawn:
+	0: 0.8
+	1: 0.2
 
-Distribution for 7 cards drwan:
-1: 0.24
-2: 0.56
-3: 0.2
+	Pairs Data for 2 cards drawn:
+	0
+	1
 
-Distribution for 8 cards drwan:
-1: 0.02
-2: 0.54
-3: 0.44
+	P Data for 2 cards drawn:
+	0.8
+	0.2
 
-Distribution for 9 cards drwan:
-2: 0.12
-3: 0.6
-4: 0.28
+Distribution for 3 cards drawn:
+	0: 0.5
+	1: 0.5
 
-Distribution for 10 cards drwan:
-2: 0.02
-3: 0.48
-4: 0.46
-5: 0.04
+	Pairs Data for 3 cards drawn:
+	0
+	1
 
-Distribution for 11 cards drwan:
-3: 0.16
-4: 0.66
-5: 0.18
+	P Data for 3 cards drawn:
+	0.5
+	0.5
 
-Distribution for 12 cards drwan:
-4: 0.5
-5: 0.5
+Distribution for 4 cards drawn:
+	0: 0.3
+	1: 0.6
+	2: 0.1
 
-Distribution for 13 cards drwan:
-4: 0.2
-5: 0.64
-6: 0.16
+	Pairs Data for 4 cards drawn:
+	0
+	1
+	2
 
-Distribution for 14 cards drwan:
-4: 0.08
-5: 0.48
-6: 0.42
-7: 0.02
+	P Data for 4 cards drawn:
+	0.3
+	0.6
+	0.1
 
-Distribution for 15 cards drwan:
-5: 0.22
-6: 0.64
-7: 0.14
+Distribution for 5 cards drawn:
+	1: 0.7
+	2: 0.3
 
-Distribution for 16 cards drwan:
-6: 0.52
-7: 0.4
-8: 0.08
+	Pairs Data for 5 cards drawn:
+	1
+	2
 
-Distribution for 17 cards drwan:
-6: 0.24
-7: 0.6
-8: 0.16
+	P Data for 5 cards drawn:
+	0.7
+	0.3
 
-Distribution for 18 cards drwan:
-7: 0.36
-8: 0.6
-9: 0.04
+Distribution for 6 cards drawn:
+	1: 0.4
+	2: 0.6
 
-Distribution for 19 cards drwan:
-7: 0.16
-8: 0.6
-9: 0.24
+	Pairs Data for 6 cards drawn:
+	1
+	2
 
-Distribution for 20 cards drwan:
-8: 0.28
-9: 0.66
-10: 0.06
+	P Data for 6 cards drawn:
+	0.4
+	0.6
 
-Distribution for 21 cards drwan:
-9: 0.62
-10: 0.38
+Distribution for 7 cards drawn:
+	1: 0.2
+	2: 0.5
+	3: 0.3
 
-Distribution for 22 cards drwan:
-10: 0.78
-11: 0.22
+	Pairs Data for 7 cards drawn:
+	1
+	2
+	3
 
-Distribution for 23 cards drwan:
-11: 1.0
+	P Data for 7 cards drawn:
+	0.2
+	0.5
+	0.3
 
-Distribution for 24 cards drwan:
-12: 1.0
+Distribution for 8 cards drawn:
+	2: 0.4
+	3: 0.6
+
+	Pairs Data for 8 cards drawn:
+	2
+	3
+
+	P Data for 8 cards drawn:
+	0.4
+	0.6
+
+Distribution for 9 cards drawn:
+	2: 0.1
+	3: 0.8
+	4: 0.1
+
+	Pairs Data for 9 cards drawn:
+	2
+	3
+	4
+
+	P Data for 9 cards drawn:
+	0.1
+	0.8
+	0.1
+
+Distribution for 10 cards drawn:
+	2: 0.1
+	3: 0.4
+	4: 0.4
+	5: 0.1
+
+	Pairs Data for 10 cards drawn:
+	2
+	3
+	4
+	5
+
+	P Data for 10 cards drawn:
+	0.1
+	0.4
+	0.4
+	0.1
+
+Distribution for 11 cards drawn:
+	3: 0.4
+	4: 0.5
+	5: 0.1
+
+	Pairs Data for 11 cards drawn:
+	3
+	4
+	5
+
+	P Data for 11 cards drawn:
+	0.4
+	0.5
+	0.1
+
+Distribution for 12 cards drawn:
+	4: 0.4
+	5: 0.6
+
+	Pairs Data for 12 cards drawn:
+	4
+	5
+
+	P Data for 12 cards drawn:
+	0.4
+	0.6
+
+Distribution for 13 cards drawn:
+	4: 0.1
+	5: 0.8
+	6: 0.1
+
+	Pairs Data for 13 cards drawn:
+	4
+	5
+	6
+
+	P Data for 13 cards drawn:
+	0.1
+	0.8
+	0.1
+
+Distribution for 14 cards drawn:
+	5: 0.3
+	6: 0.6
+	7: 0.1
+
+	Pairs Data for 14 cards drawn:
+	5
+	6
+	7
+
+	P Data for 14 cards drawn:
+	0.3
+	0.6
+	0.1
+
+Distribution for 15 cards drawn:
+	5: 0.1
+	6: 0.6
+	7: 0.3
+
+	Pairs Data for 15 cards drawn:
+	5
+	6
+	7
+
+	P Data for 15 cards drawn:
+	0.1
+	0.6
+	0.3
+
+Distribution for 16 cards drawn:
+	5: 0.1
+	6: 0.5
+	7: 0.4
+
+	Pairs Data for 16 cards drawn:
+	5
+	6
+	7
+
+	P Data for 16 cards drawn:
+	0.1
+	0.5
+	0.4
+
+Distribution for 17 cards drawn:
+	6: 0.2
+	7: 0.6
+	8: 0.2
+
+	Pairs Data for 17 cards drawn:
+	6
+	7
+	8
+
+	P Data for 17 cards drawn:
+	0.2
+	0.6
+	0.2
+
+Distribution for 18 cards drawn:
+	7: 0.4
+	8: 0.6
+
+	Pairs Data for 18 cards drawn:
+	7
+	8
+
+	P Data for 18 cards drawn:
+	0.4
+	0.6
+
+Distribution for 19 cards drawn:
+	7: 0.2
+	8: 0.6
+	9: 0.2
+
+	Pairs Data for 19 cards drawn:
+	7
+	8
+	9
+
+	P Data for 19 cards drawn:
+	0.2
+	0.6
+	0.2
+
+Distribution for 20 cards drawn:
+	9: 0.9
+	10: 0.1
+
+	Pairs Data for 20 cards drawn:
+	9
+	10
+
+	P Data for 20 cards drawn:
+	0.9
+	0.1
+
+Distribution for 21 cards drawn:
+	9: 0.6
+	10: 0.4
+
+	Pairs Data for 21 cards drawn:
+	9
+	10
+
+	P Data for 21 cards drawn:
+	0.6
+	0.4
+
+Distribution for 22 cards drawn:
+	10: 0.8
+	11: 0.2
+
+	Pairs Data for 22 cards drawn:
+	10
+	11
+
+	P Data for 22 cards drawn:
+	0.8
+	0.2
+
+Distribution for 23 cards drawn:
+	11: 1.0
+
+	Pairs Data for 23 cards drawn:
+	11
+
+	P Data for 23 cards drawn:
+	1.0
+
+Distribution for 24 cards drawn:
+	12: 1.0
+
+	Pairs Data for 24 cards drawn:
+	12
+
+	P Data for 24 cards drawn:
+	1.0
