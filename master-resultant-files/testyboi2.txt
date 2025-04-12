@@ -1,0 +1,717 @@
+25 trials run!
+Frequency Data:
+
+k = 0 cards drawn:
+	0: 20
+Pairs Data:
+	0
+Frequency Data:
+	20
+
+k = 1 cards drawn:
+	0: 20
+Pairs Data:
+	0
+Frequency Data:
+	20
+
+k = 2 cards drawn:
+	0: 19
+	1: 1
+Pairs Data:
+	0
+	1
+Frequency Data:
+	19
+	1
+
+k = 3 cards drawn:
+	0: 12
+	1: 8
+Pairs Data:
+	0
+	1
+Frequency Data:
+	12
+	8
+
+k = 4 cards drawn:
+	0: 10
+	1: 9
+	2: 1
+Pairs Data:
+	0
+	1
+	2
+Frequency Data:
+	10
+	9
+	1
+
+k = 5 cards drawn:
+	0: 3
+	1: 15
+	2: 2
+Pairs Data:
+	0
+	1
+	2
+Frequency Data:
+	3
+	15
+	2
+
+k = 6 cards drawn:
+	0: 1
+	1: 9
+	2: 9
+	3: 1
+Pairs Data:
+	0
+	1
+	2
+	3
+Frequency Data:
+	1
+	9
+	9
+	1
+
+k = 7 cards drawn:
+	1: 5
+	2: 11
+	3: 4
+Pairs Data:
+	1
+	2
+	3
+Frequency Data:
+	5
+	11
+	4
+
+k = 8 cards drawn:
+	1: 1
+	2: 12
+	3: 7
+Pairs Data:
+	1
+	2
+	3
+Frequency Data:
+	1
+	12
+	7
+
+k = 9 cards drawn:
+	2: 3
+	3: 15
+	4: 2
+Pairs Data:
+	2
+	3
+	4
+Frequency Data:
+	3
+	15
+	2
+
+k = 10 cards drawn:
+	3: 7
+	4: 13
+Pairs Data:
+	3
+	4
+Frequency Data:
+	7
+	13
+
+k = 11 cards drawn:
+	3: 1
+	4: 13
+	5: 6
+Pairs Data:
+	3
+	4
+	5
+Frequency Data:
+	1
+	13
+	6
+
+k = 12 cards drawn:
+	3: 1
+	4: 9
+	5: 8
+	6: 2
+Pairs Data:
+	3
+	4
+	5
+	6
+Frequency Data:
+	1
+	9
+	8
+	2
+
+k = 13 cards drawn:
+	4: 4
+	5: 10
+	6: 6
+Pairs Data:
+	4
+	5
+	6
+Frequency Data:
+	4
+	10
+	6
+
+k = 14 cards drawn:
+	5: 10
+	6: 10
+Pairs Data:
+	5
+	6
+Frequency Data:
+	10
+	10
+
+k = 15 cards drawn:
+	5: 3
+	6: 13
+	7: 4
+Pairs Data:
+	5
+	6
+	7
+Frequency Data:
+	3
+	13
+	4
+
+k = 16 cards drawn:
+	5: 1
+	6: 10
+	7: 9
+Pairs Data:
+	5
+	6
+	7
+Frequency Data:
+	1
+	10
+	9
+
+k = 17 cards drawn:
+	6: 1
+	7: 16
+	8: 3
+Pairs Data:
+	6
+	7
+	8
+Frequency Data:
+	1
+	16
+	3
+
+k = 18 cards drawn:
+	7: 12
+	8: 7
+	9: 1
+Pairs Data:
+	7
+	8
+	9
+Frequency Data:
+	12
+	7
+	1
+
+k = 19 cards drawn:
+	7: 3
+	8: 13
+	9: 4
+Pairs Data:
+	7
+	8
+	9
+Frequency Data:
+	3
+	13
+	4
+
+k = 20 cards drawn:
+	8: 7
+	9: 11
+	10: 2
+Pairs Data:
+	8
+	9
+	10
+Frequency Data:
+	7
+	11
+	2
+
+k = 21 cards drawn:
+	9: 14
+	10: 6
+Pairs Data:
+	9
+	10
+Frequency Data:
+	14
+	6
+
+k = 22 cards drawn:
+	10: 14
+	11: 6
+Pairs Data:
+	10
+	11
+Frequency Data:
+	14
+	6
+
+k = 23 cards drawn:
+	11: 20
+Pairs Data:
+	11
+Frequency Data:
+	20
+
+k = 24 cards drawn:
+	12: 20
+Pairs Data:
+	12
+Frequency Data:
+	20
+
+#####################################
+
+<# cards drawn>: <expected # pairs>, <expected # points>
+0: 0.000000, 0.000000
+1: 0.000000, 1.000000
+2: 0.050000, 1.900000
+3: 0.400000, 2.200000
+4: 0.550000, 2.900000
+5: 0.950000, 3.100000
+6: 1.500000, 3.000000
+7: 1.950000, 3.100000
+8: 2.300000, 3.400000
+9: 2.950000, 3.100000
+10: 3.650000, 2.700000
+11: 4.250000, 2.500000
+12: 4.550000, 2.900000
+13: 5.100000, 2.800000
+14: 5.500000, 3.000000
+15: 6.050000, 2.900000
+16: 6.400000, 3.200000
+17: 7.100000, 2.800000
+18: 7.450000, 3.100000
+19: 8.050000, 2.900000
+20: 8.750000, 2.500000
+21: 9.300000, 2.400000
+22: 10.300000, 1.400000
+23: 11.000000, 1.000000
+24: 12.000000, 0.000000
+
+Pairs Data
+0.000000
+0.000000
+0.050000
+0.400000
+0.550000
+0.950000
+1.500000
+1.950000
+2.300000
+2.950000
+3.650000
+4.250000
+4.550000
+5.100000
+5.500000
+6.050000
+6.400000
+7.100000
+7.450000
+8.050000
+8.750000
+9.300000
+10.300000
+11.000000
+12.000000
+
+Points Data
+0.000000
+1.000000
+1.900000
+2.200000
+2.900000
+3.100000
+3.000000
+3.100000
+3.400000
+3.100000
+2.700000
+2.500000
+2.900000
+2.800000
+3.000000
+2.900000
+3.200000
+2.800000
+3.100000
+2.900000
+2.500000
+2.400000
+1.400000
+1.000000
+0.000000
+
+#####################################
+Probability distributions for each number of cards drawn:
+<# pairs>: <P(# pairs)>
+
+Distribution for 0 cards drawn:
+	0: 1.000000
+
+	Pairs Data for 0 cards drawn:
+	0
+
+	P Data for 0 cards drawn:
+	1.000000
+
+Distribution for 1 cards drawn:
+	0: 1.000000
+
+	Pairs Data for 1 cards drawn:
+	0
+
+	P Data for 1 cards drawn:
+	1.000000
+
+Distribution for 2 cards drawn:
+	0: 0.950000
+	1: 0.050000
+
+	Pairs Data for 2 cards drawn:
+	0
+	1
+
+	P Data for 2 cards drawn:
+	0.950000
+	0.050000
+
+Distribution for 3 cards drawn:
+	0: 0.600000
+	1: 0.400000
+
+	Pairs Data for 3 cards drawn:
+	0
+	1
+
+	P Data for 3 cards drawn:
+	0.600000
+	0.400000
+
+Distribution for 4 cards drawn:
+	0: 0.500000
+	1: 0.450000
+	2: 0.050000
+
+	Pairs Data for 4 cards drawn:
+	0
+	1
+	2
+
+	P Data for 4 cards drawn:
+	0.500000
+	0.450000
+	0.050000
+
+Distribution for 5 cards drawn:
+	0: 0.150000
+	1: 0.750000
+	2: 0.100000
+
+	Pairs Data for 5 cards drawn:
+	0
+	1
+	2
+
+	P Data for 5 cards drawn:
+	0.150000
+	0.750000
+	0.100000
+
+Distribution for 6 cards drawn:
+	0: 0.050000
+	1: 0.450000
+	2: 0.450000
+	3: 0.050000
+
+	Pairs Data for 6 cards drawn:
+	0
+	1
+	2
+	3
+
+	P Data for 6 cards drawn:
+	0.050000
+	0.450000
+	0.450000
+	0.050000
+
+Distribution for 7 cards drawn:
+	1: 0.250000
+	2: 0.550000
+	3: 0.200000
+
+	Pairs Data for 7 cards drawn:
+	1
+	2
+	3
+
+	P Data for 7 cards drawn:
+	0.250000
+	0.550000
+	0.200000
+
+Distribution for 8 cards drawn:
+	1: 0.050000
+	2: 0.600000
+	3: 0.350000
+
+	Pairs Data for 8 cards drawn:
+	1
+	2
+	3
+
+	P Data for 8 cards drawn:
+	0.050000
+	0.600000
+	0.350000
+
+Distribution for 9 cards drawn:
+	2: 0.150000
+	3: 0.750000
+	4: 0.100000
+
+	Pairs Data for 9 cards drawn:
+	2
+	3
+	4
+
+	P Data for 9 cards drawn:
+	0.150000
+	0.750000
+	0.100000
+
+Distribution for 10 cards drawn:
+	3: 0.350000
+	4: 0.650000
+
+	Pairs Data for 10 cards drawn:
+	3
+	4
+
+	P Data for 10 cards drawn:
+	0.350000
+	0.650000
+
+Distribution for 11 cards drawn:
+	3: 0.050000
+	4: 0.650000
+	5: 0.300000
+
+	Pairs Data for 11 cards drawn:
+	3
+	4
+	5
+
+	P Data for 11 cards drawn:
+	0.050000
+	0.650000
+	0.300000
+
+Distribution for 12 cards drawn:
+	3: 0.050000
+	4: 0.450000
+	5: 0.400000
+	6: 0.100000
+
+	Pairs Data for 12 cards drawn:
+	3
+	4
+	5
+	6
+
+	P Data for 12 cards drawn:
+	0.050000
+	0.450000
+	0.400000
+	0.100000
+
+Distribution for 13 cards drawn:
+	4: 0.200000
+	5: 0.500000
+	6: 0.300000
+
+	Pairs Data for 13 cards drawn:
+	4
+	5
+	6
+
+	P Data for 13 cards drawn:
+	0.200000
+	0.500000
+	0.300000
+
+Distribution for 14 cards drawn:
+	5: 0.500000
+	6: 0.500000
+
+	Pairs Data for 14 cards drawn:
+	5
+	6
+
+	P Data for 14 cards drawn:
+	0.500000
+	0.500000
+
+Distribution for 15 cards drawn:
+	5: 0.150000
+	6: 0.650000
+	7: 0.200000
+
+	Pairs Data for 15 cards drawn:
+	5
+	6
+	7
+
+	P Data for 15 cards drawn:
+	0.150000
+	0.650000
+	0.200000
+
+Distribution for 16 cards drawn:
+	5: 0.050000
+	6: 0.500000
+	7: 0.450000
+
+	Pairs Data for 16 cards drawn:
+	5
+	6
+	7
+
+	P Data for 16 cards drawn:
+	0.050000
+	0.500000
+	0.450000
+
+Distribution for 17 cards drawn:
+	6: 0.050000
+	7: 0.800000
+	8: 0.150000
+
+	Pairs Data for 17 cards drawn:
+	6
+	7
+	8
+
+	P Data for 17 cards drawn:
+	0.050000
+	0.800000
+	0.150000
+
+Distribution for 18 cards drawn:
+	7: 0.600000
+	8: 0.350000
+	9: 0.050000
+
+	Pairs Data for 18 cards drawn:
+	7
+	8
+	9
+
+	P Data for 18 cards drawn:
+	0.600000
+	0.350000
+	0.050000
+
+Distribution for 19 cards drawn:
+	7: 0.150000
+	8: 0.650000
+	9: 0.200000
+
+	Pairs Data for 19 cards drawn:
+	7
+	8
+	9
+
+	P Data for 19 cards drawn:
+	0.150000
+	0.650000
+	0.200000
+
+Distribution for 20 cards drawn:
+	8: 0.350000
+	9: 0.550000
+	10: 0.100000
+
+	Pairs Data for 20 cards drawn:
+	8
+	9
+	10
+
+	P Data for 20 cards drawn:
+	0.350000
+	0.550000
+	0.100000
+
+Distribution for 21 cards drawn:
+	9: 0.700000
+	10: 0.300000
+
+	Pairs Data for 21 cards drawn:
+	9
+	10
+
+	P Data for 21 cards drawn:
+	0.700000
+	0.300000
+
+Distribution for 22 cards drawn:
+	10: 0.700000
+	11: 0.300000
+
+	Pairs Data for 22 cards drawn:
+	10
+	11
+
+	P Data for 22 cards drawn:
+	0.700000
+	0.300000
+
+Distribution for 23 cards drawn:
+	11: 1.000000
+
+	Pairs Data for 23 cards drawn:
+	11
+
+	P Data for 23 cards drawn:
+	1.000000
+
+Distribution for 24 cards drawn:
+	12: 1.000000
+
+	Pairs Data for 24 cards drawn:
+	12
+
+	P Data for 24 cards drawn:
+	1.000000
